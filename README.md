@@ -1,13 +1,13 @@
-# xr-cli
+# wb-cli
 A simple CLI for creating your project.
 
 # Installation
 ```
-npm install xr-cli -g
+npm install wb-cli -g
 ```
 
 # Usage
-Open your terminal and type `xr` or `xr -h` , you'll see the help infomation below:
+Open your terminal and type `wb` or `wb -h` , you'll see the help infomation below:
 ```
   Usage: xr <command>
 
